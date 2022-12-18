@@ -1,3 +1,4 @@
 # design-pattern
-# Observer
+# Observer 
+ keeping your objects in the know
 
