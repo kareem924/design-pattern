@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Solution1/.vs
+/Solution1/observer-pattern/bin/Debug/net7.0
+/Solution1/observer-pattern/obj
