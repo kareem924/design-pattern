@@ -8,3 +8,5 @@
 /patterns/.vs
 /patterns/observer-pattern/bin/Debug/net7.0
 /patterns/observer-pattern/obj
+/patterns/decorator-pattern/obj
+/.vs/design-pattern/v17
